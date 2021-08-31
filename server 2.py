@@ -1,5 +1,4 @@
 import socket, threading
-import time
 from _thread import start_new_thread
 
 def accept_client():
